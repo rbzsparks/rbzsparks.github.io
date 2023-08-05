@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  {% include home_head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div style = "width:66%; margin: auto">
+        <img class="profile-image" style="float:left; padding: 0px 15px 0px 0px" src="{{site.url}}{{site.baseurl}}/images/bobby.png" onmouseover="this.src='{{site.url}}{{site.baseurl}}/images/doodle.png'" onmouseout="this.src='{{site.url}}{{site.baseurl}}/images/bobby.png'" alt="Bobby"></img>
+          <div style="display:table-cell; vertical-align:middle; height: 230px">
+          <h2 style = "text-align:center">Who Am I?</h2>
+          <p style = "text-align:center">
+            Hi y'all! I'm Bobby, and I am postbac psychology researcher at <a href="https://psychology.stanford.edu/">Stanford University</a>. I am the current Lab Manager in the <a href="https://langcog.stanford.edu/">Language
+            & Cognition Lab</a> with Prof. Michael Frank. I graduated from Stanford in 2022 with a B.S. in <a href="https://symsys.stanford.edu/">Symbolic Systems</a>
+            concentrated in Cognitive Science. As an undergrad, I was an Honors Student and Undergrad RA in the <a href="http://sll.stanford.edu/">Social
+            Learning Lab</a> with Prof. Hyowon Gweon and Aaron Chuey.
+          </p>
+          </div>
+        </div>
+      </div>
+      <div class="wrapper">
+        <div style = "width:66%; margin: auto">
+        <h3 style = "text-align:center">Research Interests</h3>
+        <p>
+          There is vast variability across individuals' developmental ecology ('Ecology' in the sense of Bronfenbrenner's Bioecological Model). How do we account for this ecological varability in early learning?
+          Broadly, I am interested in how our learning is informed by our ecological context. More specifically, I am interested in 
+          how adversity within our early ecology shapes our cognitive and social developement. How do adaptations in our cognition arise in these adverse contexts? 
+          How are our interpersonal beliefs and behaviors impacted by adverse contexts? How do ecological stressors and early learning interact to impact our well-being? How do we account for variability in adverse experiences when studying adverse contexts?
+          What aids resilience and how can positive functioning be supported across contexts? I hope to approach these questions using a combination of behavioral 
+          and computational methods in children and adults.
+        </p>
+        <h3 style = "text-align:center">"My Village"</h3>
+        <p>
+          As a First-Generation college graduate and researcher perpetually trying to find my way in this field, I feel so grateful
+          to have been supported by a network of such brilliant, kind, and inspiring mentors, collaborators, and peers. "It takes a village",
+          and I owe so much to my village for teaching and uplifting me. Forever celebrating and thanking my village: <a href="https://profiles.stanford.edu/aaron-chuey">Aaron Chuey</a>, <a href="https://web.stanford.edu/~hyo/Home.html">Hyowon Gweon</a>,
+          <a href="https://web.stanford.edu/~mcfrank/">Michael Frank</a>, <a href="https://www.brialong.com/">Bria Long</a>, <a href="https://profiles.stanford.edu/virginia-marchman">Virginia Marchman</a>, <a href="https://profiles.stanford.edu/aneesa-conine-nakano">Aneesa Conine-Nakano</a>, <a href="https://profiles.stanford.edu/sarah-tung">Sarah Tung</a>, & <a href="https://josephouta.com/">Joseph Outa</a>.
+        </p>
+        {{ content }}
+        </div>
+      </div>
+    </div>
+    <div style="text-align: center">
+    {% include footer.html %}
+    </div>
+  </body>
+
+</html>
