@@ -8,7 +8,7 @@ permalink: /research
     <h1 style = "text-align:center">Capturing Children's Early Learning Environments</h1>
     <h3 style = "text-align:center">In Collaboration with: Dr. Bria Long, Dr. Michael C. Frank, Dr. Virginia Marchman</h3>
     <div style = "width: 100%; margin: auto">
-    <img style="float:left; padding: 0px 15px 10px 0px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" width = "39%" alt="BabyView">
+    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" width = "39%" alt="BabyView">
         <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">BabyView Project</h2>
         <p>
@@ -31,7 +31,7 @@ permalink: /research
         Ultimately, our goal is to make a publicly available (for authorized researchers) dataset comprised of video data from both BabyView and ChildView Projects. 
         </p>
         </div>
-    <img style="float:right; padding: 0px 0px 10px 15px" src="{{site.url}}{{site.baseurl}}/images/childview.png" width = "39%" alt="ChildView">
+    <img style="float:right; padding: 0px 0px 10px 10px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/childview.png" width = "39%" alt="ChildView">
     </div>
 </div>
 
@@ -40,7 +40,7 @@ permalink: /research
     <h3 style = "text-align:center">In Collaboration with: Aaron Chuey and Dr. Hyowon Gweon</h3>
     <br>
     <div style = "width: 100%; margin: auto">
-    <img style="float:left; padding: 0px 15px 10px 0px" src="{{site.url}}{{site.baseurl}}/images/ikc.png" width = "39%" alt="BabyView">
+    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/ikc.png" width = "39%" alt="BabyView">
         <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">Identifying Knowledgeable Speakers Using Causal Influence</h2>
         <p>

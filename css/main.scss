@@ -167,6 +167,7 @@ a:hover {
 .main_carousel {
     padding: 0px 0px 0px 0px;
     width: 40%;
+    min-width: 300px;
     @include media-query($on-palm) {
         width: 85%;
     }
