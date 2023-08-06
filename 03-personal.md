@@ -42,7 +42,7 @@ permalink: /personal
 
 * My siblings and I all have different fathers, so I am both the "Middle" child, and an only child :\)
 
-* I have an extensive background in the service industry, including 5 years at a Panera Bread, 1 year as a waiter at [Johnston's SaltBox](http://johnstonsaltbox.com/) (if you're in the Bay, Go - top tier Brunch), and 1 year as a Barista at StarBucks during COVID. I'm very proud of my service industry background and like to believe I'm both a better person and worker for it!
+* I have an extensive background in the service industry, including 3 years at a Panera Bread, 1 year as a waiter at [Johnston's SaltBox](http://johnstonsaltbox.com/) (if you're in the Bay, Go - top tier Brunch), and 1 year as a Barista at StarBucks during COVID. I'm very proud of my service industry background and like to believe I'm both a better person and worker for it!
 
 * When I was much younger, I played Wizard101 and somehow found myself as an admin on a [Community Wiki Website](https://www.wizard101central.com/wiki/Wizard101_Wiki) for the game. I did this through High School and really thought I would study Computer Science because of it. I was wrong :\] (but was able to pick up some useful front-end skills)
 
