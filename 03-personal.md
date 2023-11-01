@@ -35,7 +35,7 @@ permalink: /personal
 
 ### Background
 
- I was born and raised in Illinois, and spent most of my time growing up in Plainfield. I was frequently between two households, one with my single father and another with my mother, stepfather, older half-brother, and younger half-sister. After my mother and stepfather divorced, I spent far less time with my father and was moved between 5 homes over a 6-year period between elementary school and early high-school. These transitions were also paired with concerns about financial security, my family's well-being, and my sexuality. The turbulence, tension, and underlying causes of these transitions often felt impairing, but I was still able to grow into a young adult who had many close friends, could care for himself & others, often worked a job while taking advanced classes, and "succeeded" enough to end up at Stanford University as a First-Generation college student. My "model" of the world looks very different from others' models (and vice-versa), so how do we learn from and adapt to our unique circumstances?  My personal context informs many of my interests and guides my approach to my work: one that is compassionate, authentic, and in-servce of my communities and others who have also wanted life to feel even just a li'l less heavy. 
+ I was born and raised in Illinois, and spent most of my time growing up in Plainfield. I was frequently between two households, one with my single father and another with my mother, stepfather, older half-brother, and younger half-sister. After my mother and stepfather divorced, I spent far less time with my father and was moved between 5 homes over a 6-year period between elementary school and early high-school. These transitions were also paired with concerns about financial security, my family's well-being, and my sexuality. The turbulence, tension, and underlying causes of these transitions often felt impairing, but I was still able to grow into a young adult who had many close friends, could care for himself & others, often worked a job while taking advanced classes, and "succeeded" enough to end up at Stanford University as a First-Generation college student. My "model" of the world looks very different from others' models (and vice-versa), so how do we learn from and adapt to our unique circumstances?  My personal context informs many of my interests and guides my approach to my work: one that is compassionate, authentic, and in-service of my communities and others who have also wanted life to feel even just a li'l less heavy. 
  <br>
 
 ### Other Fun Facts
@@ -46,7 +46,7 @@ permalink: /personal
 
 * When I was much younger, I played Wizard101 and somehow found myself as an admin on a [Community Wiki Website](https://www.wizard101central.com/wiki/Wizard101_Wiki) for the game. I did this through High School and really thought I would study Computer Science because of it. I was wrong :\] (but was able to pick up some useful front-end skills)
 
-* When I was 13, I flew alone to New York to visit family (my dad's entire side is on Long Island). When I got to Baltimore for a layover, my flight was cancelled. In short, every single flight I was put on after that was cancelled. A kind woman I met at the airport offered to rent a car and drive us from Baltimore to Long Island, and I went along with it. Janet, if you ever see this, thank you for the ride and Wendy's Nuggets! Mom, if you see this, I'm sorry I told you I got on a plane and landed safely in LI. <br>
+* As a child, I thought being a Power Ranger would be really cool. I now have a Black Belt in Taekwondo, but I am still not a Power Ranger!<br>
 
 ### Personal Interests
 
@@ -56,9 +56,9 @@ I welcome chats about any of these fun things!
 
 **Cooking**: My mother and father have always been incredible cooks, and from an early age I wanted to be a chef (though, my grandmother told me this was only a hobby). I (and most of my immediate family) take great pride in cooking and enjoy trying and improvising new recipes. Perhaps my favorite form of relaxation :\)
 
-**Movies & Shows**: Big Little Lies, The Boys, The Real HouseWives, Vanderpump Rules, Modern Family, Horror Movies (Jeeper's Creepers, A NightMare on Elm Street, Halloween, Get Out, The Menu, House of Wax), Pretty Little Liars, Scooby Doo 2: Monsters Unleashed, Small Soldiers, Shrek 2
+**Movies & Shows**: Big Little Lies, The Boys, The Real HouseWives, Vanderpump Rules, Modern Family, Horror Movies (Jeepers Creepers, A NightMare on Elm Street, Halloween, Get Out, The Menu, House of Wax), Pretty Little Liars, Scooby Doo 2: Monsters Unleashed, Small Soldiers, Shrek 2
 
-**Childhood Favorites**: Power Rangers, Pokémon, Elmo, Barney, Scooby Doo, Krypto the Super Dog, Max & Ruby, Bakugan, Strawberry Short Cake, Kid Cuisine, Naruto, Furby
+**Childhood Favorites**: Power Rangers, Pokémon, Elmo, Barney, Scooby Doo, Krypto the Superdog, Max & Ruby, Bakugan, Strawberry Shortcake, Kid Cuisine, Naruto, Furby
 
 
     
