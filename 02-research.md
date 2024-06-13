@@ -5,6 +5,27 @@ permalink: /research
 ---
 
 <div style="display:inline-block">
+    <h1 style = "text-align:center">Learning Variability Network Exchange</h1>
+    <h3 style = "text-align:center">In Collaboration with: Dr. Michael Frank and the <a href="https://levante-network.org/data-coordination-center/">Stanford LEVANTE Team</a></h3>
+    <br>
+    <div style = "width: 100%; margin: auto; display: inline-block">
+        <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
+        <h2 style = "text-align:center">LEVANTE</h2>
+        <p>
+        <a href="https://levante-network.org/">The Learning Variability Network Exchange (LEVANTE)</a> aims to offer researchers the tools to help identify sources of variability in how children learn and develop. By bringing together a global cohort of researchers, LEVANTE will create  a cross-cultural open dataset that can be studied to understand the immense diversity in developmental experience. 
+        </p>
+        <p>
+        The primary research aims of LEVANTE include estimating contextual moderation of developmental outcomes, estimating the effects of within-individual variability on developmental outcomes, and characterizing the structure of variability within and across diverse contexts.
+        </p>
+        <p>
+        I am a member of the Data Coordination Center at Stanford University, where I assist in the implementation and maintenance of the LEVANTE measures and data.
+        </p>
+        </div>
+        <img style="float:right; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/levante.png" width = "39%" alt="BabyView">
+    </div>
+</div>
+
+<div style="display:inline-block">
     <h1 style = "text-align:center">Capturing Children's Early Learning Environments</h1>
     <h3 style = "text-align:center">In Collaboration with: Dr. Bria Long, Dr. Michael C. Frank, Dr. Virginia Marchman</h3>
     <div style = "width: 100%; margin: auto; display: inline-block">
@@ -41,7 +62,7 @@ permalink: /research
     <h3 style = "text-align:center">In Collaboration with: Aaron Chuey and Dr. Hyowon Gweon</h3>
     <br>
     <div style = "width: 100%; margin: auto; display: inline-block">
-    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/ikc.png" width = "39%" alt="BabyView">
+    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/ikc.png" width = "39%" alt="IKC">
         <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">Identifying Knowledgeable Speakers Using Causal Influence</h2>
         <p>
