@@ -52,7 +52,7 @@ permalink: /personal
 
 I welcome chats about any of these fun things!
 
-**Music**: And I mean listening, I have absolutely no musical talent to speak to! Beyoncé is my number 1, I love her music and love getting to experience her art (attended Formation World Tour in May 2016 and Renaissance in August 2023). Other music favs: Dermot Kennedy, Chloe, FLO, Doja Cat, Omar Apollo, Jazmine Sullivan, & Jeremy Zucker.
+**Music**: And I mean listening, I have absolutely no musical talent to speak to! Beyoncé is my number 1, I love her music and love getting to experience her art (attended Formation World Tour in May 2016 and Renaissance in August 2023). Other music favs: Dermot Kennedy, Chloe, FLO, Doja Cat, Doechii, Omar Apollo, Jazmine Sullivan, & Jeremy Zucker.
 
 **Cooking**: My mother and father have always been incredible cooks, and from an early age I wanted to be a chef (though, my grandmother told me this was only a hobby). I (and most of my immediate family) take great pride in cooking and enjoy trying and improvising new recipes. Perhaps my favorite form of relaxation :\)
 

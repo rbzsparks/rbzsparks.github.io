@@ -17,7 +17,7 @@ permalink: /publications
  {% bibliography --template bibtemplate --style _bibliography/rbzs.csl --query @*[year=in press] %}
 <br>
 
-{% for year in (2022..2023) reversed %}
+{% for year in (2022..2024) reversed %}
 <h2>{{year}}</h2>
 {% bibliography --template bibtemplate --style _bibliography/rbzs.csl --query @*[year={{year}}] %}
 <br>
