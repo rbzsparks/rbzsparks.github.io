@@ -9,7 +9,7 @@ permalink: /research
     <h3 style = "text-align:center">In Collaboration with: Dr. Michael Frank and the <a href="https://levante-network.org/data-coordination-center/">Stanford LEVANTE Team</a></h3>
     <br>
     <div style = "width: 100%; margin: auto; display: inline-block">
-        <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
+        <div style="width: 59%; float:left; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">LEVANTE</h2>
         <p>
         <a href="https://levante-network.org/">The Learning Variability Network Exchange (LEVANTE)</a> aims to offer researchers the tools to help identify sources of variability in how children learn and develop. By bringing together a global cohort of researchers, LEVANTE will create  a cross-cultural open dataset that can be studied to understand the immense diversity in developmental experience. 
