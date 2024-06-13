@@ -8,8 +8,8 @@ permalink: /research
     <h1 style = "text-align:center">Capturing Children's Early Learning Environments</h1>
     <h3 style = "text-align:center">In Collaboration with: Dr. Bria Long, Dr. Michael C. Frank, Dr. Virginia Marchman</h3>
     <div style = "width: 100%; margin: auto">
-    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" width = "39%" alt="BabyView">
-        <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
+    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" height = "100%" alt="BabyView">
+        <div style="width: 60%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">BabyView Project</h2>
         <p>
         The BabyView Camera is a professionally designed child-safety helmet with an attached Go-Pro designed to capture an egocentric view of children's early learning environments. I am a project manager on a longitudinal study that collects high-resolution, at-home egocentric video data from children 6-30 months over a 2-year period. Using this data we can concurrently analyze the statistics of a child's naturalistic visual and auditory input and track changes in these inputs with the child's developmental trajectory. This rich data allows us to quantify variation in children's early ecology and build models that help us understand how the child's ecology scaffolds early learning.  
