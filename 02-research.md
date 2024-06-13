@@ -30,6 +30,7 @@ permalink: /research
         <p>
         Ultimately, our goal is to make a publicly available (for authorized researchers) dataset comprised of video data from both BabyView and ChildView Projects. 
         </p>
+        {% reference sparks2024 %}
         </div>
     <img style="float:right; padding: 0px 0px 10px 10px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/childview.png" width = "39%" alt="ChildView">
     </div>
