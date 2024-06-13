@@ -7,8 +7,8 @@ permalink: /research
 <div style="display:inline-block">
     <h1 style = "text-align:center">Capturing Children's Early Learning Environments</h1>
     <h3 style = "text-align:center">In Collaboration with: Dr. Bria Long, Dr. Michael C. Frank, Dr. Virginia Marchman</h3>
-    <div style = "width: 100%; margin: auto">
-    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" height = "100%" alt="BabyView">
+    <div style = "width: 100%; margin: auto; display: inline-block">
+    <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/babyview.png" width = "39%" alt="BabyView">
         <div style="width: 60%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">BabyView Project</h2>
         <p>
@@ -21,7 +21,7 @@ permalink: /research
         </div>
     </div>
     <br>
-    <div style = "width: 100%; margin: auto">
+    <div style = "width: 100%; margin: auto; display: inline-block">
         <div style="width: 59%; float:left; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">PreSchool ChildView</h2>
         <p>
@@ -39,7 +39,7 @@ permalink: /research
     <h1 style = "text-align:center">Inferring Knowledge from Communication</h1>
     <h3 style = "text-align:center">In Collaboration with: Aaron Chuey and Dr. Hyowon Gweon</h3>
     <br>
-    <div style = "width: 100%; margin: auto">
+    <div style = "width: 100%; margin: auto; display: inline-block">
     <img style="float:left; padding: 0px 10px 10px 0px; min-width:300px" src="{{site.url}}{{site.baseurl}}/images/ikc.png" width = "39%" alt="BabyView">
         <div style="width: 59%; float:right; padding: 0px 0px 10px 0px">
         <h2 style = "text-align:center">Identifying Knowledgeable Speakers Using Causal Influence</h2>
