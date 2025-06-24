@@ -7,6 +7,39 @@
 
 %% Saved with string encoding Unicode (UTF-8) 
 
+@article{sparks2025,
+	author = {Sparks, Robert Z and Keene, Grace E and Perez, Malia J and Pha, Victoria, and Tan, Alvin W M Yin, Zi and Long, Bria and Marchman, Virginia A and Frank, Michael C},
+	date-added = {2024-06-13 16:15:56 +0200},
+	date-modified = {2024-06-13 16:15:56 +0200},
+	booktitle = {},
+	title = {The ChildView Dataset: Longitudinal Tracking of Preschoolers’ Naturalistic Classroom Experiences Using Egocentric Videos.},
+	website = {},
+	pdf = {},
+	osf = {},
+	preprint = {},
+	abstract = {},
+	year = {in prep}}
+
+@article{frank2025,
+	author = {Frank, Michael C and Marchman, Virginia A and Bergey, Claire A and Boyce, Veronica and Braginsky, Mika and Kachergis, George and Mankewitz, Jess and Meylan, Stephen and Prystawski, Ben and Ram, Nilam and Sparks, Robert Z and Steffan, Adrian and Tan, Alvin W M and Zettersten, Martin},
+	date-added = {2024-06-13 16:15:56 +0200},
+	date-modified = {2024-06-13 16:15:56 +0200},
+	booktitle = {},
+	title = {Continuous developmental changes in word recognition support language learning across early childhood},
+	website = {},
+	pdf = {},
+	osf = {https://osf.io/z8pur/},
+	preprint = {https://osf.io/preprints/psyarxiv/dtv2f_v1},
+	abstract = {Being a fluent language user involves recognizing words as they unfold in time. How does this skill develop over the course of early 
+	childhood? And how does facility in word recognition relate to the growth of vocabulary knowledge? We address these questions using data from 
+	Peekbank, an open database of experiments measuring children's eye movements during early word recognition. Combining 24 datasets from almost 
+	2,000 children ages 1--6 years, we show that word recognition becomes faster, more accurate, and less variable across development, consistent 
+	with a process of skill learning. Factor analysis reveals covariation of word recognition speed and accuracy with children's vocabulary size 
+	in cross-sectional analysis. Further, across a range of longitudinal models, speed, accuracy, and vocabulary show coupled growth such that 
+	children with faster word recognition tend to show faster vocabulary growth. Together, these findings support the view that word recognition 
+	is a skill that develops gradually across early childhood and that this skill plays a role in supporting early language learning.},
+	year = {under review}}
+
 @inproceedings{sparks2024,
 	author = {Sparks, Robert Z and Long, Bria and Keene, Grace E and Perez, Malia J and Tan, Alvin W M and Marchman, Virginia A and Frank, Michael C},
 	date-added = {2024-06-13 16:15:56 +0200},
@@ -27,39 +60,60 @@
 	learning environments.},
 	year = {2024}}
 
-@misc{long2024,
-	archiveprefix = {arXiv},
-	author = {Long, Bria and Xiang, Violet and Stojanov, Stefan and Sparks, Robert Z and Yin, Zi and Keene, Grace E and Tan, Alvin W M and Feng, Steven Y and Zhuang, Chengxu and Marchman, Virginia A and Yamins, Daniel L K and Frank, Michael C},
+@inproceedings{long2025,
+	author = {Long*, Bria and Sparks*, Robert Z, and Xiang*, Violet and Stojanov*, Stefan and Yin, Zi and Keene, Grace E and Tan, Alvin W M and Feng, Steven Y and and Nag, Auddithio and Zhuang, Chengxu and Marchman, Virginia A and Yamins, Daniel L K and Frank, Michael C},
 	date-added = {2024-06-13 16:15:56 +0200},
 	date-modified = {2024-06-13 16:15:56 +0200},
-	booktitle = {},
+	booktitle = {Proceedings of the 8th Annual Conference on Cognitive Computational Neuroscience},
 	title = {The BabyView dataset: High-resolution egocentric videos of infants’ and young children’s everyday experiences},
 	website = {https://arxiv.org/abs/2406.10447},
-	abstract = {Human children far exceed modern machine learning algorithms in their sample efficiency, achieving high performance in key domains with much less data than current models. 
-	This ``data gap'' is a key challenge both for building intelligent artificial systems and for understanding human development.
-	Egocentric video capturing children's experience -- their ``training data'' -- is a key ingredient for comparison of humans and models and for the development of algorithmic innovations to bridge this gap.
-	Yet there are few such datasets available, and extant data are low-resolution, have limited metadata, and importantly, represent only a small set of children's experiences.
-	Here, we provide the first release of the largest developmental egocentric video dataset to date -- the BabyView dataset -- recorded using a high-resolution camera with a large vertical field-of-view and gyroscope/accelerometer data.
-	This 493 hour dataset includes egocentric videos from children spanning 6 months -- 5 years of age in both longitudinal, at-home contexts and in a preschool environment.
-	We provide gold-standard annotations for the evaluation of speech transcription, speaker diarization, and human pose estimation, and evaluate models in each of these domains. 
-	We train self-supervised language and vision models and evaluate their transfer to out-of-distribution tasks including syntactic structure learning, object recognition, depth estimation, and image segmentation. 
-	Although performance in each scales with dataset size, overall performance is relatively lower than when models are trained on curated datasets, especially in the visual domain. 
-	Our dataset stands as an open challenge for robust, human-like AI systems: how can such systems achieve human-levels of success on the same scale and distribution of training data as humans? },
-	year = {2024}}
+	abstract = {Human children far exceed modern machine learning algorithms in their sample efficiency, achieving high performance in key domains with much 
+	less data than current models. This "data gap" is a key challenge both for building intelligent artificial systems and for understanding human development. 
+	Egocentric video capturing children's experience—their "training data''—is a key ingredient for comparison of humans and models and for the development of 
+	algorithmic innovations to bridge this gap. Yet there are few such datasets available, and extant data are low-resolution, have limited metadata, and 
+	importantly, represent only a small set of children's experiences. Here, we provide the first release of a large developmental egocentric video dataset—the 
+	BabyView dataset—recorded using a high-resolution camera with a large vertical field-of-view and gyroscope/accelerometer data. This 868 hour dataset includes 
+	egocentric videos from children spanning 5 months to 3 years of age in longitudinal, at-home contexts. We provide gold-standard annotations for the evaluation 
+	of speech transcription, speaker diarization, and human pose estimation, and evaluate models in each of these domains. We train self-supervised language and 
+	vision models and evaluate their transfer to out-of-distribution tasks including syntactic structure learning, object recognition, depth estimation, and image 
+	segmentation. Although performance in each scales with dataset size, overall performance is relatively lower than when models are trained on curated datasets, 
+	especially in the visual domain. Our dataset stands as an open challenge for robust, human-like AI systems: how can such systems achieve human-levels of success 
+	on the same scale and distribution of training data as humans?},
+	year = {2025}}
 
-@article{bohn2024,
+@article{bohn2025,
 	author = {Bohn, Manuel and Prein, Julia and Ayikoru, Agnes and Bednarski, Florian M and Dzabatou, Ardain and Frank, Michael C and Henderson, Annette M E and Isabella, Joan and Kalbitz, Josefine and Kanngeisser, Patricia and Keşşafoğlu, Dilara and Köymen, Bahar and Manrique-Hernandez, Maria V and Magazi, Shirley, and Mújica-Manrique, Lizbeth and Ohlendorf, Julia and Olaoba, Damilola, and Pieters, Wesley R and Pope-Caldwell, Sarah and Slocombe, Katie, and Sparks, Robert Z and Sunderarajan, Jahnavi and Vieira, Wilson and Zhang, Zhen and Zong, Yufei and Stengelin, Roman and Haun, Daniel B M},
 	date-added = {2024-06-13 16:15:56 +0200},
 	date-modified = {2024-06-13 16:15:56 +0200},
 	booktitle = {},
 	title = {A universal of human social cognition: Children from 17 communities process gaze in similar ways},
+	journal = {Child Development},
 	preprint = {https://osf.io/preprints/psyarxiv/z3ahv},
 	abstract = {Theoretical accounts assume that key features of human social cognition are universal. Here we focus on gaze-following, the bedrock of social interactions and coordinated activities, to test this claim. In this comprehensive 
 	cross-cultural study spanning five continents and 17 distinct cultural communities, we examined the development of gaze-following in early childhood. We identified key processing signatures through a computational model that assumes that 
 	participants follow an individual’s gaze by estimating a vector emanating from the eye-center through the pupil. Using a single reliable touchscreen-based task, we found these signatures in all communities, suggesting that children 
 	worldwide processed gaze in highly similar ways. Absolute differences in performance between groups are accounted for by a cross-culturally consistent relationship between children’s exposure to touchscreens and their performance in the 
 	task. These results provide strong evidence for a universal process underlying a foundational socio-cognitive ability in humans that can be reliably inferred even in the presence of cultural variation in overt behavior.},
-	year = {under review}}
+	year = {in press}}
+
+@preprint{boyce2025,
+	author = {Boyce, Veronica and Sparks, Robert Z and Mofor, Yannick, and Frank, Michael C},
+	date-added = {2024-06-13 16:15:56 +0200},
+	date-modified = {2024-06-13 16:15:56 +0200},
+	booktitle = {Poster at the Annual Meeting of the Cognitive Science Society},
+	title = {Preschoolers can form conventional pacts with each other to communicate about novel referents},
+	osf = {https://osf.io/7d3ne/},
+	preprint = {https://osf.io/preprints/osf/dpgfw_v1},
+	abstract = {Learning language requires learning not only the content of language, but also how to use language to communicate. 
+	Iterated reference games provide a window into such skills, requiring rich communication as participants converge on mutually 
+	understandable names for initially novel referents. Some early experiments are interpreted as evidence that 4-5-year-old children
+	cannot converge to the mutually understandable names needed to communicate in an iterated reference game. Here, we revisit young
+	children's referential communicative abilities using a simpler, child-friendly paradigm. Across 51 pairs of children, we found 
+	that 4-5-year-olds successfully established reference with each other. Children were 85% accurate, and they often used 
+	descriptions similar to their partner's. These findings suggest that children’s capacity to construct effective referring 
+	expressions in novel contexts emerges earlier than once thought, consistent with the view that children show early pragmatic 
+	competence in supportive contexts.},
+	year = {2025}}
 
 @article{frank2024,
 	author = {Frank, Michael C and Baumgartner, Heidi and Braginsky, Mika and Kachergis, George and Lightbody, Amy and Sparks, Robert Z and Zhu, Rebecca and Dodge, Kenneth A and Cubillo, Ana},
