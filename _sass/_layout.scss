@@ -6,7 +6,7 @@
     // Positioning context for the mobile navigation icon
     position: relative;
     background-color: rgb(0, 0, 0);
-    box-shadow: 0px 1px 10px #b6e7ff;
+    box-shadow: 0px 1px 10px #3a9ab8;
     //background-color: rgb(255, 219, 219);
     //box-shadow: 0px 1px 10px rgb(200, 234, 250);
     // box-shadow: 0px;
@@ -53,7 +53,7 @@
         display: inline-block;
 
         .page-link {
-            color: #ffffff;
+            color: #f4ecd8;
             font-size: $base-font-size*1.1;
             font-weight: normal;
             text-decoration: none;
@@ -61,7 +61,7 @@
 
             &:hover {
                 text-decoration: none;
-                color: #b6e7ff;
+                color: #3a9ab8;
                 // font-weight: bold;
             }
 
@@ -76,13 +76,13 @@
 
 
     .active {
-        background-color: #b6e7ff;
+        background-color: #f4ecd8;
         //background-color: #eedbff;
         .page-link {
-            color: #000000;
+            color: #282828;
             &:hover {
                 text-decoration: none;
-                color: #ffffff;
+                color: #3a9ab8;
                 // font-weight: bold;
             }
         }
@@ -154,8 +154,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid #000000;
-    box-shadow: 0px -1px 1px #b6e7ff;
+    border-top: 1px solid #282828;
+    box-shadow: 0px -1px 1px #3a9ab8;
+    background-color: #f4ecd8;
     padding: $spacing-unit 0;
 }
 
